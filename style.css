@@ -1,0 +1,66 @@
+.body{
+    background-color: whitesmoke;
+}
+
+.form-group{
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input{
+    border-radius: 5px;
+    padding:2px;
+}
+
+textarea{
+    border-radius: 5px;
+    padding:2px;
+}
+
+#first-name{
+    position: relative;
+    left: 20px;
+    width: 350px;
+}
+#last-name{
+    position: relative;
+    left: 20px;
+    width: 350px;
+}
+#pincode{
+    position: relative;
+    left: 30px;
+    width: 350px;
+}
+.gen {
+ padding: 5px;   
+}
+#address{
+    position: relative;
+    left: 30px;
+    width: 350px;
+}
+
+.foodall{
+    position: relative;
+    left: 30px;
+}
+
+#state{
+    position: relative;
+    left: 40px;
+    width: 350px;
+}
+#country{
+    position: relative;
+    left: 30px;
+    width: 350px;
+}
+table{
+
+font-family: 'Times New Roman', Times, serif;
+border: rgb(0, 0, 0);
+border-collapse: collapse;
+
+}
